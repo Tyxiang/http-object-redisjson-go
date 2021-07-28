@@ -1,0 +1,36 @@
+{
+    "students": [
+        {
+            "id":"0001",
+            "name": "Tom",
+            "age": 5,
+            "gender": "male"
+        },
+        {
+            "id":"0002",
+            "name": "Jack",
+            "age": 5,
+            "gender": "male"
+        },
+        {
+            "id":"0003",
+            "name": "Alice",
+            "age": 5,
+            "gender": "female"
+        }
+    ],
+    "school": {
+        "name": "chun-tian",
+        "level": 0,
+        "features": [
+            "violin",
+            "football",
+            "green"
+        ],
+        "schoolmaster": {
+            "name": "Logan",
+            "age": 45,
+            "gender": "female"
+        }
+    }
+}

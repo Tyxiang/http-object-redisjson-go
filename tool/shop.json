@@ -1,0 +1,22 @@
+{
+    "products": [{
+            "id":"0001",
+            "name": "iPhone",
+            "price": 6999
+        },
+        {
+            "id":"0002",
+            "name": "Kindle",
+            "price": 999
+        },
+        {
+            "id":"0003",
+            "name": "XBox",
+            "price": 3999
+        }
+    ],
+    "shop": {
+        "name": "east-room",
+        "address": "No. 1 Gaojiayuan, Chaoyang District, Beijing, China"
+    }
+}
